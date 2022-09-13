@@ -16,3 +16,28 @@ img {
   display: block;
   max-width: 100%;
 }
+
+#datetime-picker {
+  font-size: 18px;
+}
+
+.timer {
+  margin-top: 30px;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.value {
+  margin-left: 20px;
+  font-size: 30px;
+  color: green;
+}
+
+.label {
+  font-size: 25px;
+  font-style: italic;
+
+  font-weight: 700;
+}
